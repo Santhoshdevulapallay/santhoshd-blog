@@ -4,7 +4,7 @@ Welcome to my blog project! 🚀
 This is a modern, responsive web application built with **React** and powered by **React Router, React Query, and shadcn/ui** components.  
 It includes features like dynamic blog posts, global notifications, and a clean layout with tooltips and icons.
 
----
+----
 
 ## ✨ Features
 - ⚡ **React Router** for seamless navigation
@@ -42,6 +42,7 @@ src/
  │   └── NotFound.jsx
  ├── App.jsx               # Main app with routes & providers
  └── main.jsx              # Entry point
+
 
 
 
