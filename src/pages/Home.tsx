@@ -22,7 +22,7 @@ const Home = () => {
           <div className="animate-fade-in-up">
             <h4 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-6">
               <span className="text-gradient">
-                React Developer | Tech Enthusiast | Blogger
+                Next.JS & React Developer | Tech Enthusiast | Blogger
               </span>
             </h4>
 
